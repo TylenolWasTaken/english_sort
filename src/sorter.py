@@ -1,5 +1,8 @@
 import json as js
 
+# TODO: USER INPUT
+# TODO: REFACTORING VAR & FUNCTIONS
+
 # Loads json file as a dict
 resources_dir: str = "/git/repos/english_sort/resources"
 with open(f'{resources_dir}/words.json', 'r') as f:
