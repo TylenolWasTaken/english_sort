@@ -1,0 +1,8 @@
+{
+  "globals": {
+    "debug": false
+  },
+  "sorter": {
+    "empty": true
+  }
+}
