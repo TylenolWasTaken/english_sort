@@ -5,7 +5,7 @@ import json as js
 words = dict({"word": []})
 
 # File formatting
-resources_dir: str = "resources"
+resources_dir: str = "/git/repos/english_sort/resources"
 with open(f'{resources_dir}/words_alpha.txt', 'r') as stage1:
     Lines = stage1.readlines()
     for line in Lines:
